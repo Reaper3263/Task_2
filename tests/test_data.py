@@ -1,0 +1,8 @@
+user_1_username = "Test123dsa2fgfddfsda"
+user_2_username = "Test2sa1d2fdsf"
+user_3_username = "Test3232sfsffs12"
+password = "12233"
+user_1_email = f"{user_1_username}@mail.ru"
+new_password = "new_password_123"
+new_name = "new_233us33232r_name"
+new_email = "new_1123test224f3321_email@mail.ru"
