@@ -1,0 +1,7 @@
+MAIN_URL = "https://stellarburgers.education-services.ru"
+REGISTER_USER_URL = MAIN_URL + "/api/auth/register"
+AUTH_USER_URL = MAIN_URL + "/api/auth/login"
+USER_URL = MAIN_URL + "/api/auth/user"
+CREATE_ORDER_URL = MAIN_URL + "/api/orders"
+GET_INGREDIENTS_URL = MAIN_URL + "/api/ingredients"
+GET_ORDERS_URL = MAIN_URL + "/api/orders"
